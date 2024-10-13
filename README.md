@@ -17,3 +17,4 @@ Features
         Load arrays from text files.
     Test Mode:
         Automatically run sorting tests with a predefined number of random values.
+![sorting](https://github.com/user-attachments/assets/4f336e96-f60b-4a2a-914e-4a84a013e491)
