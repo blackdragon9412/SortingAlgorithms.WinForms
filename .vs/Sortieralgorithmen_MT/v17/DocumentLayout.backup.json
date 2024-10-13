@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Sortieralgorithmen_MT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{413C4EC3-F8F2-4DFA-A1E9-FD2054F2B944}|Sortieralgorithmen_MT\\Sortieralgorithmen_MT.csproj|c:\\users\\admin\\source\\repos\\sortieralgorithmen_mt\\sortieralgorithmen_mt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413C4EC3-F8F2-4DFA-A1E9-FD2054F2B944}|Sortieralgorithmen_MT\\Sortieralgorithmen_MT.csproj|solutionrelative:sortieralgorithmen_mt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413C4EC3-F8F2-4DFA-A1E9-FD2054F2B944}|Sortieralgorithmen_MT\\Sortieralgorithmen_MT.csproj|C:\\Users\\Admin\\source\\repos\\Sortieralgorithmen_MT\\sortieralgorithmen_mt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{413C4EC3-F8F2-4DFA-A1E9-FD2054F2B944}|Sortieralgorithmen_MT\\Sortieralgorithmen_MT.csproj|solutionrelative:sortieralgorithmen_mt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413C4EC3-F8F2-4DFA-A1E9-FD2054F2B944}|Sortieralgorithmen_MT\\Sortieralgorithmen_MT.csproj|c:\\users\\admin\\source\\repos\\sortieralgorithmen_mt\\sortieralgorithmen_mt\\algorithmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413C4EC3-F8F2-4DFA-A1E9-FD2054F2B944}|Sortieralgorithmen_MT\\Sortieralgorithmen_MT.csproj|solutionrelative:sortieralgorithmen_mt\\algorithmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413C4EC3-F8F2-4DFA-A1E9-FD2054F2B944}|Sortieralgorithmen_MT\\Sortieralgorithmen_MT.csproj|c:\\users\\admin\\source\\repos\\sortieralgorithmen_mt\\sortieralgorithmen_mt\\zeit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413C4EC3-F8F2-4DFA-A1E9-FD2054F2B944}|Sortieralgorithmen_MT\\Sortieralgorithmen_MT.csproj|solutionrelative:sortieralgorithmen_mt\\zeit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Algorithmen.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Sortieralgorithmen_MT\\Sortieralgorithmen_MT\\Algorithmen.cs",
+              "RelativeDocumentMoniker": "Sortieralgorithmen_MT\\Algorithmen.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Sortieralgorithmen_MT\\Sortieralgorithmen_MT\\Algorithmen.cs",
+              "RelativeToolTip": "Sortieralgorithmen_MT\\Algorithmen.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwHsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:23:26.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Zeit.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Sortieralgorithmen_MT\\Sortieralgorithmen_MT\\Zeit.cs",
+              "RelativeDocumentMoniker": "Sortieralgorithmen_MT\\Zeit.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Sortieralgorithmen_MT\\Sortieralgorithmen_MT\\Zeit.cs",
+              "RelativeToolTip": "Sortieralgorithmen_MT\\Zeit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:01:01.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Sortieralgorithmen_MT\\Sortieralgorithmen_MT\\Form1.cs",
+              "RelativeDocumentMoniker": "Sortieralgorithmen_MT\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Sortieralgorithmen_MT\\Sortieralgorithmen_MT\\Form1.cs [Entwurf]",
+              "RelativeToolTip": "Sortieralgorithmen_MT\\Form1.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:42:11.599Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Sortieralgorithmen_MT\\Sortieralgorithmen_MT\\Form1.cs",
+              "RelativeDocumentMoniker": "Sortieralgorithmen_MT\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Sortieralgorithmen_MT\\Sortieralgorithmen_MT\\Form1.cs",
+              "RelativeToolTip": "Sortieralgorithmen_MT\\Form1.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAIwK0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:22:43.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+Ergebnisse der Sortieralgorithmen:
+Anzahl der Wiederholungen: 10
+
+--- Bubblesort ---
+Zufällige Zahlen:
+Laufzeit bei Durchgang 1: 240600 microsec
+Laufzeit bei Durchgang 2: 51800 microsec
+Laufzeit bei Durchgang 3: 49500 microsec
+Laufzeit bei Durchgang 4: 48700 microsec
+Laufzeit bei Durchgang 5: 37200 microsec
+Laufzeit bei Durchgang 6: 36200 microsec
+Laufzeit bei Durchgang 7: 37000 microsec
+Laufzeit bei Durchgang 8: 37000 microsec
+Laufzeit bei Durchgang 9: 36000 microsec
+Laufzeit bei Durchgang 10: 35900 microsec
+Durchschnittliche Laufzeit: 60990 microsec
+
+Aufsteigend sortierte Zahlen:
+Laufzeit bei Durchgang 1: 21400 microsec
+Laufzeit bei Durchgang 2: 21000 microsec
+Laufzeit bei Durchgang 3: 21700 microsec
+Laufzeit bei Durchgang 4: 19200 microsec
+Laufzeit bei Durchgang 5: 20600 microsec
+Laufzeit bei Durchgang 6: 19100 microsec
+Laufzeit bei Durchgang 7: 20700 microsec
+Laufzeit bei Durchgang 8: 19800 microsec
+Laufzeit bei Durchgang 9: 20700 microsec
+Laufzeit bei Durchgang 10: 20600 microsec
+Durchschnittliche Laufzeit: 20480 microsec
+
+Absteigend sortierte Zahlen:
+Laufzeit bei Durchgang 1: 42700 microsec
+Laufzeit bei Durchgang 2: 42300 microsec
+Laufzeit bei Durchgang 3: 42700 microsec
+Laufzeit bei Durchgang 4: 41800 microsec
+Laufzeit bei Durchgang 5: 40700 microsec
+Laufzeit bei Durchgang 6: 40400 microsec
+Laufzeit bei Durchgang 7: 41000 microsec
+Laufzeit bei Durchgang 8: 40800 microsec
+Laufzeit bei Durchgang 9: 40400 microsec
+Laufzeit bei Durchgang 10: 41500 microsec
+Durchschnittliche Laufzeit: 41430 microsec
+
+Gesamtdurchschnittliche Laufzeit: 40966,666666666664 microsec
+
+--- Insertionsort ---
+Zufällige Zahlen:
+Laufzeit bei Durchgang 1: 198600 microsec
+Laufzeit bei Durchgang 2: 12400 microsec
+Laufzeit bei Durchgang 3: 12200 microsec
+Laufzeit bei Durchgang 4: 12700 microsec
+Laufzeit bei Durchgang 5: 12300 microsec
+Laufzeit bei Durchgang 6: 12300 microsec
+Laufzeit bei Durchgang 7: 12300 microsec
+Laufzeit bei Durchgang 8: 12300 microsec
+Laufzeit bei Durchgang 9: 11800 microsec
+Laufzeit bei Durchgang 10: 12300 microsec
+Durchschnittliche Laufzeit: 30920 microsec
+
+Aufsteigend sortierte Zahlen:
+Laufzeit bei Durchgang 1: 700 microsec
+Laufzeit bei Durchgang 2: 700 microsec
+Laufzeit bei Durchgang 3: 600 microsec
+Laufzeit bei Durchgang 4: 700 microsec
+Laufzeit bei Durchgang 5: 700 microsec
+Laufzeit bei Durchgang 6: 700 microsec
+Laufzeit bei Durchgang 7: 700 microsec
+Laufzeit bei Durchgang 8: 700 microsec
+Laufzeit bei Durchgang 9: 700 microsec
+Laufzeit bei Durchgang 10: 600 microsec
+Durchschnittliche Laufzeit: 680 microsec
+
+Absteigend sortierte Zahlen:
+Laufzeit bei Durchgang 1: 25200 microsec
+Laufzeit bei Durchgang 2: 23400 microsec
+Laufzeit bei Durchgang 3: 23500 microsec
+Laufzeit bei Durchgang 4: 24700 microsec
+Laufzeit bei Durchgang 5: 25600 microsec
+Laufzeit bei Durchgang 6: 24900 microsec
+Laufzeit bei Durchgang 7: 24800 microsec
+Laufzeit bei Durchgang 8: 24700 microsec
+Laufzeit bei Durchgang 9: 25900 microsec
+Laufzeit bei Durchgang 10: 25600 microsec
+Durchschnittliche Laufzeit: 24830 microsec
+
+Gesamtdurchschnittliche Laufzeit: 18810 microsec
+
+--- Selektionsort ---
+Zufällige Zahlen:
+Laufzeit bei Durchgang 1: 175500 microsec
+Laufzeit bei Durchgang 2: 24400 microsec
+Laufzeit bei Durchgang 3: 23000 microsec
+Laufzeit bei Durchgang 4: 23300 microsec
+Laufzeit bei Durchgang 5: 23300 microsec
+Laufzeit bei Durchgang 6: 22900 microsec
+Laufzeit bei Durchgang 7: 22500 microsec
+Laufzeit bei Durchgang 8: 22300 microsec
+Laufzeit bei Durchgang 9: 22900 microsec
+Laufzeit bei Durchgang 10: 22100 microsec
+Durchschnittliche Laufzeit: 38220 microsec
+
+Aufsteigend sortierte Zahlen:
+Laufzeit bei Durchgang 1: 19900 microsec
+Laufzeit bei Durchgang 2: 19200 microsec
+Laufzeit bei Durchgang 3: 19000 microsec
+Laufzeit bei Durchgang 4: 19400 microsec
+Laufzeit bei Durchgang 5: 18900 microsec
+Laufzeit bei Durchgang 6: 19200 microsec
+Laufzeit bei Durchgang 7: 19300 microsec
+Laufzeit bei Durchgang 8: 19300 microsec
+Laufzeit bei Durchgang 9: 19200 microsec
+Laufzeit bei Durchgang 10: 19400 microsec
+Durchschnittliche Laufzeit: 19280 microsec
+
+Absteigend sortierte Zahlen:
+Laufzeit bei Durchgang 1: 35000 microsec
+Laufzeit bei Durchgang 2: 22400 microsec
+Laufzeit bei Durchgang 3: 22100 microsec
+Laufzeit bei Durchgang 4: 21600 microsec
+Laufzeit bei Durchgang 5: 21800 microsec
+Laufzeit bei Durchgang 6: 22100 microsec
+Laufzeit bei Durchgang 7: 20500 microsec
+Laufzeit bei Durchgang 8: 21600 microsec
+Laufzeit bei Durchgang 9: 21600 microsec
+Laufzeit bei Durchgang 10: 21500 microsec
+Durchschnittliche Laufzeit: 23020 microsec
+
+Gesamtdurchschnittliche Laufzeit: 26840 microsec
+
+--- Quicksort ---
+Zufällige Zahlen:
+Laufzeit bei Durchgang 1: 195600 microsec
+Laufzeit bei Durchgang 2: 5800 microsec
+Laufzeit bei Durchgang 3: 19200 microsec
+Laufzeit bei Durchgang 4: 4100 microsec
+Laufzeit bei Durchgang 5: 3500 microsec
+Laufzeit bei Durchgang 6: 3300 microsec
+Laufzeit bei Durchgang 7: 3200 microsec
+Laufzeit bei Durchgang 8: 3100 microsec
+Laufzeit bei Durchgang 9: 3000 microsec
+Laufzeit bei Durchgang 10: 2900 microsec
+Durchschnittliche Laufzeit: 24370 microsec
+
+Aufsteigend sortierte Zahlen:
+Laufzeit bei Durchgang 1: 22900 microsec
+Laufzeit bei Durchgang 2: 9800 microsec
+Laufzeit bei Durchgang 3: 9700 microsec
+Laufzeit bei Durchgang 4: 9700 microsec
+Laufzeit bei Durchgang 5: 9600 microsec
+Laufzeit bei Durchgang 6: 9700 microsec
+Laufzeit bei Durchgang 7: 24000 microsec
+Laufzeit bei Durchgang 8: 9800 microsec
+Laufzeit bei Durchgang 9: 9800 microsec
+Laufzeit bei Durchgang 10: 9900 microsec
+Durchschnittliche Laufzeit: 12490 microsec
+
+Absteigend sortierte Zahlen:
+Laufzeit bei Durchgang 1: 10800 microsec
+Laufzeit bei Durchgang 2: 9900 microsec
+Laufzeit bei Durchgang 3: 9800 microsec
+Laufzeit bei Durchgang 4: 9800 microsec
+Laufzeit bei Durchgang 5: 9700 microsec
+Laufzeit bei Durchgang 6: 9700 microsec
+Laufzeit bei Durchgang 7: 9600 microsec
+Laufzeit bei Durchgang 8: 24300 microsec
+Laufzeit bei Durchgang 9: 9800 microsec
+Laufzeit bei Durchgang 10: 9800 microsec
+Durchschnittliche Laufzeit: 11320 microsec
+
+Gesamtdurchschnittliche Laufzeit: 16060 microsec
+
+--- Sort (built-in) ---
+Zufällige Zahlen:
+Laufzeit bei Durchgang 1: 71500 microsec
+Laufzeit bei Durchgang 2: 2200 microsec
+Laufzeit bei Durchgang 3: 1200 microsec
+Laufzeit bei Durchgang 4: 800 microsec
+Laufzeit bei Durchgang 5: 600 microsec
+Laufzeit bei Durchgang 6: 700 microsec
+Laufzeit bei Durchgang 7: 500 microsec
+Laufzeit bei Durchgang 8: 500 microsec
+Laufzeit bei Durchgang 9: 500 microsec
+Laufzeit bei Durchgang 10: 500 microsec
+Durchschnittliche Laufzeit: 7900 microsec
+
+Aufsteigend sortierte Zahlen:
+Laufzeit bei Durchgang 1: 600 microsec
+Laufzeit bei Durchgang 2: 500 microsec
+Laufzeit bei Durchgang 3: 400 microsec
+Laufzeit bei Durchgang 4: 300 microsec
+Laufzeit bei Durchgang 5: 400 microsec
+Laufzeit bei Durchgang 6: 300 microsec
+Laufzeit bei Durchgang 7: 300 microsec
+Laufzeit bei Durchgang 8: 300 microsec
+Laufzeit bei Durchgang 9: 300 microsec
+Laufzeit bei Durchgang 10: 300 microsec
+Durchschnittliche Laufzeit: 370 microsec
+
+Absteigend sortierte Zahlen:
+Laufzeit bei Durchgang 1: 1300 microsec
+Laufzeit bei Durchgang 2: 800 microsec
+Laufzeit bei Durchgang 3: 600 microsec
+Laufzeit bei Durchgang 4: 500 microsec
+Laufzeit bei Durchgang 5: 500 microsec
+Laufzeit bei Durchgang 6: 500 microsec
+Laufzeit bei Durchgang 7: 500 microsec
+Laufzeit bei Durchgang 8: 700 microsec
+Laufzeit bei Durchgang 9: 500 microsec
+Laufzeit bei Durchgang 10: 400 microsec
+Durchschnittliche Laufzeit: 630 microsec
+
+Gesamtdurchschnittliche Laufzeit: 2966,6666666666665 microsec
+
+Vergleich der durchschnittlichen Laufzeiten (aufsteigend sortiert):
+Sort (built-in): 2966,6666666666665 microsec
+Quicksort: 16060 microsec
+Insertionsort: 18810 microsec
+Selektionsort: 26840 microsec
+Bubblesort: 40966,666666666664 microsec
